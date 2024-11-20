@@ -1,4 +1,4 @@
-# Bash for Beginners
+# Bash for Beginners - forked from yt for personal learning purposes
 
 ## Overview
 
